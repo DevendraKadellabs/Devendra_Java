@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Test class{
 
 public static void main (String [] args){
@@ -5,3 +6,9 @@ public static void main (String [] args){
 System.out.println("Hello World");
 }
 }
+=======
+Devendra
+kadel Labs
+Udaipur
+Rajsthan
+>>>>>>> fe38af6e2ad44b6486027cde907d3b3ef479e85a
