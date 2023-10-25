@@ -1,1 +1,9 @@
-Hi, how are you doing
+Test class{
+
+public static void main (String [] args){
+
+System.out.println("Hello World");
+System.out.println("Hi, How are you doing");
+System.out.println("Java Code");
+}
+}
