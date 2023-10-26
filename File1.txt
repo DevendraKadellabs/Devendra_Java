@@ -1,7 +1,7 @@
 Test class{
 
 public static void main (String [] args){
-
+Hi Hello Bye
 System.out.println("Hello World");
 System.out.println("Hi, How are you doing");
 }
